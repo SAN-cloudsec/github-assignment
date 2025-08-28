@@ -37,4 +37,27 @@ Profile updated (name, avatar, short bio)
 <img width="709" height="477" alt="git-email" src="https://github.com/user-attachments/assets/43210c5f-ad53-44b8-96eb-2fa596c9a37e" />
 
 ### Git config --global --list
-<img width="684" height="474" alt="git-config-list" src="https://github.com/user-attachments/assets/8ddd0855-0df9-40e2-800f-5e3611e217ec" />
+<img width="684" height="474" alt="git-config-list" src="https://github.com/user-attachments/assets/995c922a-09a8-4440-a00b-46e61d0b2ef1" />
+
+
+## Deliverable C
+- [x] Generate SSH key
+- [x] Start ssh-agent and add key
+- [x] Copy your public key
+- [x] Test connection
+
+### Generate SSH key
+<img width="949" height="784" alt="generate-SSH-Key" src="https://github.com/user-attachments/assets/682d5098-2d46-47ec-9f9d-89b8c6228cfe" />
+
+### Start ssh-agent and add key
+<img width="1028" height="661" alt="start-agent" src="https://github.com/user-attachments/assets/cfc26f80-927f-4a9e-a6bb-c68322dc43f2" />
+
+### Start ssh-agent and add key- Current Session
+<img width="1077" height="670" alt="start-agent-current-session" src="https://github.com/user-attachments/assets/cdfc48f6-c4e0-4b65-8dfb-825910aa29fa" />
+
+### Copy your public key
+<img width="1127" height="716" alt="copy-public-key-to-github" src="https://github.com/user-attachments/assets/6c767bae-63c4-4b0e-9c44-9d92b3077c67" />
+
+### Test connection
+<img width="1063" height="677" alt="test-the-connection" src="https://github.com/user-attachments/assets/f14600c7-bdd7-432a-9f1f-57ceeeb77b3a" />
+
